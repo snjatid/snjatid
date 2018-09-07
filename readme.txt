@@ -3,7 +3,4 @@ git is free sofware ditributed upder the gpl.
 git has a mutable in called stage.
 git tracks changes.
 dev fengzhi 
-<<<<<<< HEAD
-=======
 createing new branch is quick and simple
->>>>>>> feature1
